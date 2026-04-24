@@ -20,4 +20,4 @@ The program:
 1. Make sure Python is installed on your system.
 
 2. Download or clone the repository:
-   git clone https://github.com/FarahElwakeel/session1_assignment.git
+ - `git clone https://github.com/FarahElwakeel/session1_assignment.git`
